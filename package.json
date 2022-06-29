@@ -14,7 +14,7 @@
   "keywords": [
     "express-with-mongodb"
   ],
-  "author": "Henry Megwai",
+  "author": "H.M,
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.0",
